@@ -38,11 +38,3 @@ Atualmente sou Desenvolvedor Front-End Junior e estudante de Back-End🤳
   <a href="https://www.linkedin.com/in/jorge-kimura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kimurajorge2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-  ##
-<div>
-<a href="https://github.com/jorgekimura2001">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekimura2001&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgekimura2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
