@@ -3,7 +3,7 @@
 
 Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
 
-Atualmente sou Desenvolvedora Front-End Junior e estudante de Back-End🤳 
+Atualmente sou Desenvolvedor Front-End Junior e estudante de Back-End🤳 
   
 ##
   
