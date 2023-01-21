@@ -55,11 +55,11 @@ Atualmente sou Desenvolvedor Front-End | Back-End 🤳
   
   ##
   
-  <div align="center">
-  <a href="https://github.com/jorgekimura2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgekimura2001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekimura2001&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  ### ```GitHub Stats```
+  
+  ![Jorge Kimura's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgekimura2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekimura2001&layout=compact&theme=radical)](https://github.com/jorgekimura2001/github-readme-stats)
   
   ##
  
