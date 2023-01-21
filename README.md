@@ -69,5 +69,4 @@ Atualmente sou Desenvolvedor Front-End | Back-End 🤳
   <a href = "mailto:kimurajorge2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' title='Gmail' target="_blank"></a>
   <a href = "https://meu-portfolio-five-self.vercel.app/" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" title='meuPortfolio' alt='meuPortfolio' target='_blank'></a> 
 </div>
-
-![Snake animation](https://github.com/jorgekimura2001/jorgekimura2001/blob/output/github-contribution-grid-snake.svg)  
+ 
