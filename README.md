@@ -1,11 +1,9 @@
 
 ### ```< Olá, bem vindo(a)(e) eu sou o Jorge! 🚀 />```
 
-Sou estudante de Desenvolvimento Web Full-Stack 😎🦆
-
 Amante de jogos de videogames, tecnologias e animes 👾❤
 
-Atualmente sou Desenvolvedor Front-End | Back-End 🤳 
+Atualmente sou Desenvolvedor Full-Stack 🤳 
 
 ## 
 
