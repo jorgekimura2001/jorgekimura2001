@@ -65,6 +65,6 @@ Atualmente sou Desenvolvedor Full-Stack 🤳
 <div> 
   <a href="https://www.linkedin.com/in/jorge-kimura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt='LinkedIn' target="_blank"></a> 
   <a href = "mailto:kimurajorge2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' title='Gmail' target="_blank"></a>
-  <a href = "https://portfolio-nine-rho-33.vercel.app/" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" title='portfolio' alt='portfolio' target='_blank'></a> 
+  <a href = "https://portfolio-nine-rho-33.vercel.app/" target="_blank"><img height="30" width="40" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" title='portfolio' alt='portfolio'></a> 
 </div>
  
