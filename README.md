@@ -9,8 +9,6 @@ Atualmente sou Desenvolvedor Full-Stack 🤳
 
 
 ### [`Veja meu Curriculo`](https://docs.google.com/document/d/1Gdow45JB0HJ866atlqK5lDUy9F7W71FomZUsKDxNGaI/edit?usp=sharing)
-
-##
     
 <div style="display: inline_block"><br>
   
@@ -53,6 +51,7 @@ Atualmente sou Desenvolvedor Full-Stack 🤳
 </div>
 
 <div style="display: inline_block">
+<br/>
     
 ### ```Tecnologias que estou estudando:``` 
   
