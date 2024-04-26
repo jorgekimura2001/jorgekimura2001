@@ -58,10 +58,7 @@ Atualmente sou Desenvolvedor Full-Stack 🤳
   ##
   
   <img align="center" alt="nextjs" title='NextJS' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="tailwindcss" title='TailwindCSS' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="mongodb" title='MongoDB' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="vue" title='VueJS' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" />
-     
+  <img align="center" alt="tailwindcss" title='TailwindCSS' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />   
 </div>
           
   
